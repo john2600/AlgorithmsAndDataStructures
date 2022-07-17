@@ -1,6 +1,6 @@
 package com.datastructures.arrayLists;
 
-
+/* simple pojo */
 public class Employee {
     private String firstName;
     private String lastName;
